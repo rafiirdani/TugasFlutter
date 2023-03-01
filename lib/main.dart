@@ -72,6 +72,7 @@ class _MyHomePageState extends State<MyHomePage> {
         }
       }
 
+      //coba
       // // Percobaan 2 : ganjil genap
       // if(_counter%2 == 0){
       //   _text = "Genap";
